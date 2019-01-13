@@ -11,10 +11,17 @@ Usage:
 5. Batch processing code is "Batch_process.m".
 
 Citation:
+
 @article{wuTIP2019,
+
   title={Learning Sheared EPI Structure for Light Field Reconstruction},
+  
   author={Gaochang Wu and Yebin Liu and Qionghai Dai and Tianyou Chai},
+  
   journal={IEEE Transactions on Image Processing (IEEE TIP)},
+  
   year={to be published},
+  
   publisher={IEEE}
+  
   }
