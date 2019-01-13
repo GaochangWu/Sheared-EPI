@@ -19,4 +19,3 @@ journal={IEEE Transactions on Image Processing (IEEE TIP)},
 year={to be published},
 publisher={IEEE}
 }
-
