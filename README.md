@@ -1,5 +1,5 @@
 # ---------------------------------------------------------------------
-# Matlab demo code for "Learning Sheared EPI Structure for Light Field Reconstruction" (IEEE TIP submission)
+# Matlab demo code for "Learning Sheared EPI Structure for Light Field Reconstruction" (IEEE TIP 2019)
 # ---------------------------------------------------------------------
 
 Usage:
